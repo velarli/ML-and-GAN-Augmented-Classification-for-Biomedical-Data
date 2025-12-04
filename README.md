@@ -29,6 +29,8 @@ Color-coded plots highlight signal behavior:
 - Gray: normal readings
 This reveals patterns, anomalies, and sensor noise.
 
+<img width="1489" height="990" alt="image" src="https://github.com/user-attachments/assets/c806c74f-6ed5-4b2a-a967-423cbad90652" />
+
 💡 Key Benefits
 
 - Improved classifier robustness through synthetic data.
